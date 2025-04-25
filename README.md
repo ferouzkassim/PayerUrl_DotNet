@@ -12,9 +12,12 @@ builder.Services.PayerUrl();
 IIPayerUrl.paymentRequest(/*your payer url credentils /Keys*/,/*The Request Body*/)
 
 the Request Body can be results of static methods that help you format your data to theis Models
-
+```
+##
 if You are using MVC controllers
 You can just.
+##
+```
   [Route("/Api/PayInvoice")]
   public async Task<IActionResult>InvoicePay([FromQuery]Guid invoice, [FromServices]IPayment payment, [FromServices]IIPayerUrl iPayerUrl)
   {
@@ -31,8 +34,8 @@ You can just.
       return PartialView("~/Views/index/Components/invstate.cshtml",tr);
   }
 
-
-  public static string (InvoiceId,[FromServices],IIPayerurlpayment string URLPoint ){
+public class payment{
+  public static string PayInvoice (InvoiceId,[FromServices],IIPayerurlpayment string URLPoint ){
         var payeUrlConfiguration = ....[///db interaction to get your conifguration ];
         or Grab it from your appsetings whihc i dont recommend .,,
   var PaymentRequestBody = new PaymentRequestBody()
@@ -53,6 +56,7 @@ Note:EVERYTHING IN THE PaymentRequestBody IS NEEDED DONT IGNORE ANYTHING
  then just call the
 var paymentLink = await iPayerUrl.PaymentRequest(payeUrlConfiguration, PaymentRequestBody);
  
+}
 }
 ```
 ##
