@@ -1,0 +1,16 @@
+C:\Users\DROID\source\repos\tdshop\PaymentsSystems\bin\Debug\net8.0\PaymentsSystems.deps.json
+C:\Users\DROID\source\repos\tdshop\PaymentsSystems\bin\Debug\net8.0\PaymentsSystems.dll
+C:\Users\DROID\source\repos\tdshop\PaymentsSystems\bin\Debug\net8.0\PaymentsSystems.pdb
+C:\Users\DROID\source\repos\tdshop\PaymentsSystems\bin\Debug\net8.0\DataModels.dll
+C:\Users\DROID\source\repos\tdshop\PaymentsSystems\bin\Debug\net8.0\DataModels.pdb
+C:\Users\DROID\source\repos\tdshop\PaymentsSystems\obj\Debug\net8.0\PaymentsSystems.csproj.AssemblyReference.cache
+C:\Users\DROID\source\repos\tdshop\PaymentsSystems\obj\Debug\net8.0\PaymentsSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DROID\source\repos\tdshop\PaymentsSystems\obj\Debug\net8.0\PaymentsSystems.AssemblyInfoInputs.cache
+C:\Users\DROID\source\repos\tdshop\PaymentsSystems\obj\Debug\net8.0\PaymentsSystems.AssemblyInfo.cs
+C:\Users\DROID\source\repos\tdshop\PaymentsSystems\obj\Debug\net8.0\PaymentsSystems.csproj.CoreCompileInputs.cache
+C:\Users\DROID\source\repos\tdshop\PaymentsSystems\obj\Debug\net8.0\PaymentsSystems.sourcelink.json
+C:\Users\DROID\source\repos\tdshop\PaymentsSystems\obj\Debug\net8.0\Payments.0591ED52.Up2Date
+C:\Users\DROID\source\repos\tdshop\PaymentsSystems\obj\Debug\net8.0\PaymentsSystems.dll
+C:\Users\DROID\source\repos\tdshop\PaymentsSystems\obj\Debug\net8.0\refint\PaymentsSystems.dll
+C:\Users\DROID\source\repos\tdshop\PaymentsSystems\obj\Debug\net8.0\PaymentsSystems.pdb
+C:\Users\DROID\source\repos\tdshop\PaymentsSystems\obj\Debug\net8.0\ref\PaymentsSystems.dll
